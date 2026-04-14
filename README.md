@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Software+Developer;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Software+Developer;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---
@@ -38,7 +38,7 @@ Git | GitHub | VS Code | XAMPP
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=pratheeksha-ai&theme=tokyonight)
+![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=pratheeksha-ai&layout=compact&theme=tokyonight)
 
 ---
 
