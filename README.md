@@ -35,18 +35,7 @@ Git | GitHub | VS Code | XAMPP
 
 ## 🔥 Streak Stats
 ![Streak](https://streak-stats.demolab.com?user=pratheeksha-ai&theme=tokyonight)
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratheeksha-ai&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400)
 
-## 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratheeksha-ai&layout=compact&theme=tokyonight&cache_seconds=86400)
-
----
-
-## 🐍 Contribution Snake
-![snake gif](https://github.com/pratheeksha-ai/pratheeksha-ai/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📌 Featured Projects
 - 💰 Smart Expense Analyzer
