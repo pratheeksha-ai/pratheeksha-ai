@@ -32,14 +32,15 @@ Git | GitHub | VS Code | XAMPP
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=pratheeksha-ai&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ## 🔥 Streak Stats
 ![Streak](https://streak-stats.demolab.com?user=pratheeksha-ai&theme=tokyonight)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratheeksha-ai&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400)
 
 ## 📈 Top Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratheeksha-ai&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratheeksha-ai&layout=compact&theme=tokyonight&cache_seconds=86400)
+
 ---
 
 ## 🐍 Contribution Snake
