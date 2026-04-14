@@ -50,10 +50,7 @@ Git | GitHub | VS Code | XAMPP
 
 ---
 
-## 👀 Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=pratheeksha-ai&color=blue)
 
----
 
 ## ⚡ Extra Features
 - ✨ Clean UI focused projects
