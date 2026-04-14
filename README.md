@@ -33,18 +33,13 @@ Git | GitHub | VS Code | XAMPP
 ---
 
 ## 📊 GitHub Stats
-![Pratheeksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratheeksha-ai&show_icons=true&theme=tokyonight)
-
----
+![Stats](https://github-readme-stats.vercel.app/api?username=pratheeksha-ai&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=pratheeksha-ai&layout=compact&theme=tokyonight)
-
----
+![Streak](https://streak-stats.demolab.com?user=pratheeksha-ai&theme=tokyonight)
 
 ## 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratheeksha-ai&layout=compact&theme=tokyonight)
-
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratheeksha-ai&layout=compact&theme=tokyonight)
 ---
 
 ## 🐍 Contribution Snake
