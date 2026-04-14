@@ -1,109 +1,82 @@
 <h1 align="center">Hi 👋, I'm Pratheeksha</h1>
-<h3 align="center">🚀 MCA Student | 💻 Developer | 🔐 Cybersecurity Enthusiast</h3>
+<h3 align="center">MCA Student | Software Developer</h3>
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;Future+Cybersecurity+Expert;Building+Secure+Applications;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Software+Developer;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🎓 MCA Student passionate about real-world projects  
-- 💻 Skilled in Full Stack Development  
-- 🌱 Currently learning **Cybersecurity & System Design**  
-- 🎯 Goal: Become a **Security-focused Software Engineer**  
-- 💡 Love solving problems & improving logic  
+## 🌸 About Me
+- 🎓 MCA Student at NMAM Institute of Technology
+- 💻 Interested in Web Development & Software Engineering
+- 🌱 Learning React, Java, SQL & Cybersecurity
+- 🎯 Focused on building real-world projects
 
 ---
 
 ## 🛠️ Tech Stack
+💻 Languages  
+C | Java | Python | PHP  
 
-### 💻 Languages
-`C`  `Java` `Python`
+🌐 Web Development  
+HTML | CSS | JavaScript  
 
-### 🌐 Web Development
-`HTML` `CSS` `JavaScript` `PHP`
+🗄️ Database  
+MySQL  
 
-### 🛢️ Database
-`MySQL`
-
-### 🔐 Cybersecurity
-`SQL Injection` `Hashing` `Digital Signatures`
-
----
-
-## 📂 Projects
-
-### 💰 Expense Tracker
-- Track daily expenses with analytics
-- Uses LocalStorage & charts
-
-
-
-### 💎 Spark & Shine (Jewelry Website)
-- Full-stack e-commerce system
-- Built with PHP + MySQL
+⚙️ Tools  
+Git | GitHub | VS Code | XAMPP  
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratheeksha-ai&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratheeksha-ai&layout=compact&theme=tokyonight" />
-</p>
+![Pratheeksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratheeksha-ai&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pratheeksha-ai&theme=tokyonight" />
-</p>
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=pratheeksha-ai&theme=tokyonight)
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratheeksha-ai&theme=tokyo-night" />
-</p>
+## 📈 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratheeksha-ai&layout=compact&theme=tokyonight)
 
 ---
 
-## 📊 Coding Activity Chart
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratheeksha-ai&theme=tokyonight" />
-</p>
+## 🐍 Contribution Snake
+![snake gif](https://github.com/pratheeksha-ai/pratheeksha-ai/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratheeksha-ai&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-- 💻 GitHub: https://github.com/pratheeksha-ai  
+## 📌 Featured Projects
+- 💰 Smart Expense Analyzer
+- 📚 Library Management System (Java + MySQL)
+- 🧠 MindQuest (React Project)
 
 ---
 
-## ⚡ Fun Facts
-
-- 💙 Love Blue Color  
-- 🤔 Overthinker but Problem Solver  
-- 🌸 Introvert ➝ Extrovert (depends on vibes 😄)  
+## 🌐 Connect with Me
+- 💼 LinkedIn: https://linkedin.com/in/pratheekshaamin
+- 💻 GitHub: https://github.com/pratheeksha-ai
 
 ---
 
-## 👀 Visitor Count
+## 👀 Profile Views
+![Profile views](https://komarev.com/ghpvc/?username=pratheeksha-ai&color=blue)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratheeksha-ai&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+---
+
+## ⚡ Extra Features
+- ✨ Clean UI focused projects
+- 🚀 Strong problem-solving mindset
+- 💡 Consistent learner
+- 🎯 Goal-oriented developer
+
+---
+
+## ✨ Fun Fact
+💙 I love building simple, beautiful and useful applications!
