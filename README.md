@@ -38,7 +38,7 @@ Git | GitHub | VS Code | XAMPP
 
 
 ## 📌 Featured Projects
-- 💰 Smart Expense Analyzer
+- 💰 Smart Expense Analyze
 - 📚 Library Management System (Java + MySQL)
 - 🧠 MindQuest (React Project)
 
