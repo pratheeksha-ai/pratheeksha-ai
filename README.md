@@ -33,8 +33,8 @@ Git | GitHub | VS Code | XAMPP
 ---
 
 
-## 🔥 Streak Stats
-![Streak](https://streak-stats.demolab.com?user=pratheeksha-ai&theme=tokyonight)
+<!--## 🔥 Streak Stats-->
+<!--![Streak](https://streak-stats.demolab.com?user=pratheeksha-ai&theme=tokyonight)-->
 
 
 ## 📌 Featured Projects
